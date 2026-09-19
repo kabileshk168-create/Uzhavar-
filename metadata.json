@@ -1,0 +1,6 @@
+{
+  "name": "UZHAVAR+",
+  "description": "Speak. Learn. Grow. Sell. AI-powered agricultural intelligence, market price decision support, and digital companion for farmers.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
